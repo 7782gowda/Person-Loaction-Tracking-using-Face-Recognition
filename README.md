@@ -1,5 +1,4 @@
-# Person-Loaction-Tracking-using-Face-Recognition
-project
+
 # Person Location Tracking Using Face Recognition
 
 ## Overview
